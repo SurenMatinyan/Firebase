@@ -1,0 +1,45 @@
+.cont{
+    width: 300px;
+    border: 1px solid rgb(126, 126, 126);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.cont input {
+    width: 270px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.cont button {
+    width: 200px;
+    height: 50px;
+   margin-left: 45px;
+   margin-top: 20px;
+   background-color: rgb(50, 70, 255);
+   color: white;
+   border: none;
+   border-radius: 8px;
+}
+
+
+.navi button{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 3px;
+    margin-left: 5px;
+    border: 1px solid rgb(141, 141, 141);
+}
+
+.item {
+    border: solid 1px rgb(126, 126, 126);
+    width: 320px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.item li {
+    margin-top: 5px;
+    border-bottom: solid rgb(145, 145, 145) 1px;
+}
